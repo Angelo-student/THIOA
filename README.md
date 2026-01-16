@@ -21,4 +21,4 @@ state-of-the-art like GA-EAX algorithm at higher point densities. On the 55 test
 of TSPLIB, the average path length was reduced by 8.6% in high-density scenarios.
 
 
-This code was developed on Matlab 2023b and requires the parallel acceleration package of Matlab. For solving the tsp problem, we used the ga-eax algorithm.
+This code was developed on Matlab 2023b and requires the parallel acceleration package of Matlab. For solving the tsp problem, we used the [ga-eax algorithm](https://github.com/nagata-yuichi/GA-EAX).
